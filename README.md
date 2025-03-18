@@ -1,23 +1,25 @@
 Matthaios Markatis  
-matthaiosmarkatis@gmail.com  
+matthaiosmarkatis@gmail.com | Sheffield, UK  
 
-I'm a Physics graduate from the University of Sheffield with extensive experience in Python programming, machine learning, data science, and embedded systems. My work focuses on developing custom automation solutions, AI-driven workflows, and intelligent systems to streamline processes and tackle challenging technical problems.
+I’m a Physics graduate from the University of Sheffield with a strong background in machine learning, AI engineering, automation, and embedded systems. I build intelligent solutions to automate complex tasks, streamline workflows, and enable data-driven decisions across various domains.
 
-Core Skills:
-- Advanced Python programming, C++, MATLAB
-- Machine learning (TensorFlow, PyTorch, scikit-learn)
-- AI engineering, LLM fine-tuning, NLP
-- Web automation (Playwright), autonomous AI agents
-- IoT, embedded systems (Arduino, Raspberry Pi, ESP32, drone autopilots)
-- Data engineering, data visualization, SQL
-- Version control with Git/GitHub
+### Core Skills:
+- Advanced Python programming, C++, MATLAB, VHDL
+- Machine Learning & Deep Learning (TensorFlow, PyTorch, scikit-learn, CNNs, Transformers)
+- AI Agents & LLM fine-tuning (GPT-based models, autonomous web agents)
+- Automation (Playwright, dynamic form parsing, custom automation pipelines)
+- Embedded Systems & IoT (Arduino, Raspberry Pi, drone autopilots, LoRaWAN)
+- Data Engineering & Analysis (SQL, MongoDB, Apache Spark, Pandas, Dash, IBM Watson Studio)
+- Computer Vision (OpenCV, YOLO, object detection, segmentation)
+- Cloud & API Integration (IBM Cloud, OpenAI API, real-time data processing)
+- Version Control (Git, GitHub)
 
-Key Projects:
-- Wildfire detection IoT system integrating ML and LoRaWAN sensors
-- Autonomous FPV drone development using custom-built hardware and iNav firmware
-- Playwright-based automated job application bot for dynamic web form handling
-- Falcon 9 launch outcome prediction using data science methodologies
-- Imagine you Android app. Imagine yourself with custom made Diffusion models.
-  
+### Key Projects:
+- **Wildfire Detection IoT System**: Integrated machine learning with LoRaWAN sensors for real-time wildfire detection, featuring a live UI and predictive analytics using NASA FIRMS data.
+- **Autonomous FPV Drone**: Custom-built drone system with an F7 flight controller, GPS navigation, PID tuning, and autonomous capabilities using iNav firmware.
+- **Imagine You Flutter App**: Personalized image generation app leveraging custom-trained diffusion models deployed via Replicate API, Firebase backend, and responsive Flutter UI.
+- **Automated LinkedIn Job Application Bot**: Python-based intelligent automation using Playwright and GPT-generated cover letters, dynamically handling web form inputs and file uploads.
+- **Advanced PC Assistant Agent**: AI-powered CLI agent capable of system operations, file management, browser integration, task management, and HTTP traffic logging.
+- **Falcon 9 Launch Outcome Prediction**: Data science project employing CRISP-DM methodology and machine learning models for predicting SpaceX mission outcomes.
 
-Let's connect to discuss how my skills in automation, AI, and systems integration can contribute to your projects.  
+I’m eager to connect and collaborate on innovative projects leveraging automation, AI, and system integration.
