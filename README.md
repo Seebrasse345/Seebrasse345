@@ -1,28 +1,23 @@
-👋 Hello, I'm Matt
-Welcome to my GitHub! I'm a 21-year-old physicist with a passion for pushing the boundaries of technology and science. Here's a bit about me:
+Matthaios Markatis  
+matthaiosmarkatis@gmail.com  
 
-🚀 About Me
-🔬 Physicist: At the heart of it, I'm fascinated by the laws that govern our universe. I love exploring and understanding the intricate patterns and phenomena in physics.
-🤖 AI Enthusiast: I have a keen interest in artificial intelligence models. Whether it's neural networks, machine learning algorithms, or AI in physics, I'm always excited to learn and experiment.
-🛸 Drone Hobbyist: Drones aren't just flying gadgets for me; they're a confluence of physics, electronics, and AI. I enjoy building and programming drones, pushing them to their limits.
-🔌 Electronics Projects: I love getting my hands dirty with electronics projects. From designing circuits to soldering components, each project is a journey into the world of applied physics.
-💪 Gym Aficionado: When I'm not immersed in tech and physics, I'm at the gym. Fitness is a crucial part of my life, keeping me energized and focused.
-📚 My Projects
-On my GitHub, you'll find a variety of projects that reflect my interests. From AI-based applications to innovative drone designs and electronics DIYs, each repository is a piece of my journey in tech and science.
+I'm a Physics graduate from the University of Sheffield with extensive experience in Python programming, machine learning, data science, and embedded systems. My work focuses on developing custom automation solutions, AI-driven workflows, and intelligent systems to streamline processes and tackle challenging technical problems.
 
-🌐 Let's Connect
-Whether you're a fellow physicist, a tech enthusiast, or just curious, feel free to reach out to me. I'm always open to discussing ideas, collaborating on projects, or just having a good chat about the mysteries of the universe.
-<!--
-**Seebrasse345/Seebrasse345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Core Skills:
+- Advanced Python programming, C++, MATLAB
+- Machine learning (TensorFlow, PyTorch, scikit-learn)
+- AI engineering, LLM fine-tuning, NLP
+- Web automation (Playwright), autonomous AI agents
+- IoT, embedded systems (Arduino, Raspberry Pi, ESP32, drone autopilots)
+- Data engineering, data visualization, SQL
+- Version control with Git/GitHub
 
-Here are some ideas to get you started:
+Key Projects:
+- Wildfire detection IoT system integrating ML and LoRaWAN sensors
+- Autonomous FPV drone development using custom-built hardware and iNav firmware
+- Playwright-based automated job application bot for dynamic web form handling
+- Falcon 9 launch outcome prediction using data science methodologies
+- Imagine you Android app. Imagine yourself with custom made Diffusion models.
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect to discuss how my skills in automation, AI, and systems integration can contribute to your projects.  
